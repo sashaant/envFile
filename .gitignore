@@ -1,0 +1,11 @@
+.env.testing
+.env.production
+.env.development
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/my-allure-results/
+/allure-report/
+/my-allure-results/
+/coverage/
